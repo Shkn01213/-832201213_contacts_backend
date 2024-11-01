@@ -24,7 +24,7 @@ This is a simple RESTful API built with Node.js and Express for managing a list 
 git clone <repository-url>
 cd <repository-name>
 npm install body-parser cor jsdom mysql mysql2 sequelize
-
+```
 ### 3. Set up MySQL Database
 
 1. Create a new MySQL database called `ContactsDB`.
