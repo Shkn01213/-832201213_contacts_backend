@@ -50,4 +50,5 @@ npm install body-parser cor jsdom mysql mysql2 sequelize
 
    ```bash
    node server.js
+```
 
