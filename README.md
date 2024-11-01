@@ -38,8 +38,7 @@ npm install body-parser cor jsdom mysql mysql2 sequelize
        email VARCHAR(255),
        is_favorite BOOLEAN DEFAULT FALSE
    );
-```
-
+   ```
 3. **Update Database Configuration**
 
    Update the database configuration in `server.js` if necessary (e.g., MySQL user, password).
@@ -50,4 +49,4 @@ npm install body-parser cor jsdom mysql mysql2 sequelize
 
    ```bash
    node server.js
-
+   ```
